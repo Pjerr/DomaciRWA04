@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name":"Carrot",
+            "quantity": 249,
+            "type": "Vegetable"
+        },
+        {
+            "id": 2,
+            "name":"Apple",
+            "quantity": 190,
+            "type": "Fruit"
+        },
+        {
+            "id": 3,
+            "name":"Tomato",
+            "quantity": 123,
+            "type": "Vegetable"
+        },
+        {
+            "id": 4,
+            "name":"Orange",
+            "quantity": 244,
+            "type": "Fruit"
+        }
+    ]
+}
